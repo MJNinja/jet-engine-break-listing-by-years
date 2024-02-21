@@ -2,7 +2,8 @@
 
 Allow to break single listing grid into sections separated by year based on post publication date or date from the meta field. Something like this:
 
-![JetEngine - break-listing-by-years](https://github.com/MJNinja/jet-engine-break-listing-by-years/assets/35722976/27b83ac1-04d2-4ad1-8a9d-e017b72beb95)
+![JetEngine---break-listing-by-years](https://github.com/MJNinja/jet-engine-break-listing-by-years/assets/35722976/d2f75036-dff9-4354-812b-749efe4d7420)
+
 
 Plugin works only with Query Builder, so you can break only listings where you get the posts with Query Builder
 
